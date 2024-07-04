@@ -28,7 +28,7 @@ function Projects() {
               title="Contact Card Using React Js"
               description="A contact card component is a reusable UI element that displays contact information such as a name, phone number, email address, and profile picture. This component can be used in various parts of a web application to provide a consistent and visually appealing way to present contact details.."
               ghLink="https://github.com/LakshmiSubramani-eng/Contact-Card-Using-React"
-              // demoLink="https://chatify-49.web.app/"
+              demoLink="https://contact-card-using-react.vercel.app/"
             />
           </Col>
 
@@ -50,7 +50,7 @@ function Projects() {
               title="Drinker Using HTML5,CSS3,Bootstarp"
               description="This project aims to develop a simple and elegant Mini Drinker application using HTML, CSS, and Bootstrap. The application will provide a user-friendly interface for selecting and displaying information about various beverages. This project focuses on showcasing the effective use of Bootstrap for responsive design and CSS for styling enhancements."
               ghLink="https://github.com/LakshmiSubramani-eng/Drinker-project-Using-HTML-CSS-JS"
-              // demoLink="https://edito r.soumya-jit.tech/"             
+              demoLink="https://drinker-project-using-html-css-js.vercel.app/"             
             />
           </Col>
 
