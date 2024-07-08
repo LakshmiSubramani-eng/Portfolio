@@ -38,8 +38,8 @@ function Projects() {
               isBlog={false}
               title="Youtube Clone"
               description="This project aims to develop a YouTube clone application utilizing the React.js framework to provide a modern, responsive, and efficient video sharing platform. The application will emulate core functionalities of YouTube, including user authentication, video uploading, video playback, comments, likes, subscriptions, and personalized recommendations.."
-              ghLink="https://github.com/LakshmiSubramani-eng/Clone-Project"
-              // demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/LakshmiSubramani-eng/Youtube-Clone"
+              demoLink="https://youtube-clone-update.vercel.app/"
             />
           </Col>
 
